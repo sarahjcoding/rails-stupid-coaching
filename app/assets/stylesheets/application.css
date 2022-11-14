@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+color: rgb(155, 42, 42)
+}
+
+.text-center a{
+  color: white;
+  text-decoration: none;
+}
+
+.text-center a:hover{
+  color: white;
+  text-decoration: none;
+}
